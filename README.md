@@ -13,3 +13,6 @@ https://colab.research.google.com/drive/1dwWIWsnkC2D3Cx4EMu8SGx9WBjQS37C1
 
 El resultado del scrapy realizado se encuentra en:
 https://drive.google.com/open?id=1-86HcBSoZu6M2oOEuDsijUyzekeIGO8v
+
+La explicación de la configuración de Google Cloud se encuentra en:
+https://docs.google.com/document/d/1HDXwEi1d72-JjDxuhbRs7cen6so8idYoTzwGubnR5po/edit?usp=sharing
